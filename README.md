@@ -7,17 +7,18 @@ Práctica de clase para comenzar a utilizar Github como herramienta para el desa
 
 Ejemplo:
 
-# encabezado nivel 1
+# Encabezado nivel 1
 Es cuando se ve la letra mas grande tal cual un encabezado
-## encabezado nivel 2
+## Encabezado nivel 2
 Poco a poco van bajando de nivel el n umero de letra.
-### encabeezado nivel 3
-un número mas pequeño que el anterior.
-#### encabezado nivel 4
-un número menos que el anterior 
-##### encabezado nivel 5
-como el anterior un n umero menos 
-###### encbezado nivel 6
-el mas bajo de nivel
+### Encabeezado nivel 3
+Un número mas pequeño que el anterior.
+#### Encabezado nivel 4
+Un número menos que el anterior 
+##### Encabezado nivel 5
+Como el anterior un n umero menos 
+###### Encabezado nivel 6
+El mas bajo de nivel
+
 ####### encabezado nivel 7 
 (solo se toma en cuenta los primeros niveles)

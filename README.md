@@ -53,50 +53,25 @@ Lo que en una pagina utilizariamos  usando l etiqueta  <p>.
 
 Tambien podemos aplicar  estilos basicos de alineación :
 
-Crea un repositorio de GitHub
-El repositorio es una ubicación donde se almacena toda la información de un proyecto. Puede contener uno o varios archivos de código, imágenes, texto, etc. Para crear uno, haz clic en el menú desplegable con el símbolo + en la parte superior derecha de la página y escoge New repository. Ahora tienes que rellenar los datos necesarios:
+Github es una plataforma de control de versiones gratuita que sirve para gestionar proyectos y permite colaborar con una gran comunidad de desarrolladores, aportando mejoras y comentarios. Puede ser útil no solo para manejar proyectos de desarrollo de software, sino también para organizar trabajo en equipo en diferentes industrias.
 
-Asigna el nombre corto y claro a tu repositorio.
-Escribe una breve descripción.
-Selecciona el acceso público (para código abierto) o privado.
-Agrega un archivo README con comentarios sobre tu proyecto.
-Haz clic en Create repository para confirmar la creación de tu repositorio.
-Este parrafo esta alineado a la izquierda por defecto
+Si quieres aprender a sacar el máximo partido a Github y tener una carrera exitosa en el sector IT, inscríbete al curso online de Analista de Datos. Aprenderás los principios de programación para generar estadísticas, analizar y manejar datos, visualizar resultados y mucho más. Estudia y haz actividades prácticas a tu ritmo, con el feedback personalizado de un tutor. Al finalizar el curso, enriquece tu portafolio con un proyecto real y el certificado oficial de EBAC.
 
 <p aling="right">
-Crea una nueva rama (branch)
-La ramificación te permite generar diferentes versiones de un proyecto sin afectar el código inicial. El repositorio tiene una rama principal llamada Main a partir de la cual puedes crear tus propias ramas adicionales creando una copia del proyecto para agregar nuevas características, hacer pruebas sin miedo a equivocarte y arruinar el trabajo realizado. Los cambios introducidos en las ramas se reflejarán en la rama principal solo después de confirmar y fusionarlos. Para generar una nueva rama:
+Github es una plataforma de control de versiones gratuita que sirve para gestionar proyectos y permite colaborar con una gran comunidad de desarrolladores, aportando mejoras y comentarios. Puede ser útil no solo para manejar proyectos de desarrollo de software, sino también para organizar trabajo en equipo en diferentes industrias.
 
-Entra en tu repositorio y haz clic en la pestaña Code.
-Pulsa el botón Main con una lista desplegable de archivos.
-Introduce el nombre de tu nueva rama de características.
-Haz clic en Create branch. Ahora puedes hacer cambios en la nueva rama.
-Este parrafo esta alineado a la derecha utilizando la propiedad alineacion
-</p>
+Si quieres aprender a sacar el máximo partido a Github y tener una carrera exitosa en el sector IT, inscríbete al curso online de Analista de Datos. Aprenderás los principios de programación para generar estadísticas, analizar y manejar datos, visualizar resultados y mucho más. Estudia y haz actividades prácticas a tu ritmo, con el feedback personalizado de un tutor. Al finalizar el curso, enriquece tu portafolio con un proyecto real y el certificado oficial de EBAC. </p>
 
-<p aling="center"> Haz un commit para guardar cambios
-En GitHub, las modificaciones se llevan a cabo mediante confirmaciones o commits. Para mantener los cambios hechos en una rama y guardarlos en tu repositorio, realiza los siguientes pasos:
+<p aling="center"> Github es una plataforma de control de versiones gratuita que sirve para gestionar proyectos y permite colaborar con una gran comunidad de desarrolladores, aportando mejoras y comentarios. Puede ser útil no solo para manejar proyectos de desarrollo de software, sino también para organizar trabajo en equipo en diferentes industrias.
 
-Selecciona tu rama recién creada en el menú desplegable Main.
-Escoge el archivo que quieres cambiar.
-Haz clic en el icono del lápiz para editar.
-Agrega una breve descripción de los cambios realizados.
-Presiona el botón Commit changes para subir la nueva versión al repositorio.
+Si quieres aprender a sacar el máximo partido a Github y tener una carrera exitosa en el sector IT, inscríbete al curso online de Analista de Datos. Aprenderás los principios de programación para generar estadísticas, analizar y manejar datos, visualizar resultados y mucho más. Estudia y haz actividades prácticas a tu ritmo, con el feedback personalizado de un tutor. Al finalizar el curso, enriquece tu portafolio con un proyecto real y el certificado oficial de EBAC.
 este parrafo esta centrado utilizando la alinación.
 </p>
-<p aling="justify"> Crea una solicitud de extracción (pull request)
-Si quieres introducir al proyecto los cambios que acabas de hacer o proponer mejoras a otros desarrolladores, debes crear un pull request o una solicitud de extracción.
 
-La solicitud de extracción es una herramienta esencial de colaboración en GitHub que te permite proponer cambios y requerir que alguien revise e integre tu contribución en su código o haga sugerencias. La solicitud de extracción muestra diferencias entre las ramas y refleja cambios, adiciones y sustracciones del contenido en varios colores. Si otros desarrolladores aprueban tu solicitud, pueden fusionar esos cambios con el proyecto principal.
 
-Para aprender el flujo de GitHub antes de trabajar en proyectos con más colaboradores, puedes crear un pull request en tu propio repositorio, siguiendo estos pasos:
+<p aling="justify"> Github es una plataforma de control de versiones gratuita que sirve para gestionar proyectos y permite colaborar con una gran comunidad de desarrolladores, aportando mejoras y comentarios. Puede ser útil no solo para manejar proyectos de desarrollo de software, sino también para organizar trabajo en equipo en diferentes industrias.
 
-Abre la pestaña Pull requests en tu repositorio.
-Haz clic en New pull request.
-En el cuadro Compare changes, selecciona la rama que has creado para compararla con la rama Main.
-Asegúrate de revisar tus cambios antes de enviar y haz clic en Create pull request.
-En la nueva página, escribe el título de tu solicitud y agrega una breve descripción de los cambios que ofreces.
-Confirma el envío presionando Create pull request.
+Si quieres aprender a sacar el máximo partido a Github y tener una carrera exitosa en el sector IT, inscríbete al curso online de Analista de Datos. Aprenderás los principios de programación para generar estadísticas, analizar y manejar datos, visualizar resultados y mucho más. Estudia y haz actividades prácticas a tu ritmo, con el feedback personalizado de un tutor. Al finalizar el curso, enriquece tu portafolio con un proyecto real y el certificado oficial de EBAC.
 Este parrafo esta justificado utilizando la propiedad de alineacion
 </p>
 

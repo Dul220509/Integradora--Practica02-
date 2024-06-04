@@ -88,7 +88,46 @@ Agrega una breve descripción de los cambios realizados.
 Presiona el botón Commit changes para subir la nueva versión al repositorio. PRACTICA CON JUSTIFICADO
 </p>
 
+#### 4. TEXTO ENFATIZADO (BOLD,ITALIC,BOLD/ITALICT)
+Si el texto que deseamos enfatizar se encuentra de un parrafo podemos utilizar algunos trucos para ubicarlos en la documentacion
 
+##### TEXTO EN NEGRITA 
+Para poder poner el texto en negrita esta debera ser encerrado entre dobles " "
 
+Ejemplo
+
+Crea una solicitud de extracción (pull request)
+Si quieres introducir al proyecto los cambios que acabas de hacer o proponer mejoras a otros desarrolladores, debes crear un pull request o una solicitud de extracción.
+
+La solicitud de extracción es una herramienta esencial de colaboración en GitHub que te permite proponer cambios y requerir que alguien revise e integre tu contribución en su código o haga sugerencias. La solicitud de extracción muestra diferencias entre las ramas y refleja cambios, adiciones y sustracciones del contenido en varios colores. Si otros desarrolladores aprueban tu solicitud, pueden fusionar esos cambios con el proyecto principal.
+
+Para aprender el flujo de GitHub antes de trabajar en proyectos con más colaboradores, puedes crear un pull request en tu propio repositorio, siguiendo estos pasos:
+
+**Abre la pestaña Pull requests en tu repositorio.**
+**Haz clic en New pull request.**
+**En el cuadro Compare changes, selecciona la rama que has creado para compararla con la rama Main.**
+**Asegúrate de revisar tus cambios antes de enviar y haz clic en Create pull request.**
+**En la nueva página, escribe el título de tu solicitud y agrega una breve descripción de los cambios que ofreces.**
+**Confirma el envío presionando Create pull request."**
+
+#### TEXTO EN CURSIVA (ITALICT)
+Se añade poniendo dos asteriscos donde se wuuiere reslatar la palabra 
+Fusiona los cambios
+Después de revisar y aprobar la *solicitud*, el paso final será incorporar los cambios a la rama principal. Sigue estos pasos para fusionar tus cambios con el proyecto:
+
+Haz clic en Merge pull request para incorporar los cambios en la rama Main.
+Pulsa Confirm merge para confirmar la acción. Recibirás un mensaje avisando que los cambios se fusionaron con éxito.
+Ahora que los cambios están incorporados en el código principal, puedes eliminar la rama con seguridad presionando Delete branch.
+Si en algún momento quieres hacer más cambios en tu *proyecto*, siempre puedes crear una rama nueva y repetir el proceso.
+
+#### texto en negrita y cursiva (bold  y italict) 
+se utiliza un triple asterizco
+**Conclusión** 
+***Github*** es una plataforma de control de versiones gratuita que sirve para gestionar proyectos y permite colaborar con una gran comunidad de desarrolladores, aportando mejoras y comentarios. Puede ser útil no solo para manejar proyectos de desarrollo de software, sino también para organizar trabajo en equipo en diferentes industrias.
+
+##### TEXTO SUBRAYADO (UNDERLINE)
+**Ejemplo**
+
+<ins>Si quieres aprender a sacar el máximo partido a Github y tener una carrera exitosa en el sector IT, inscríbete al curso online de Analista de Datos. Aprenderás los principios de programación para generar estadísticas, analizar y manejar datos, visualizar resultados y mucho más. Estudia y haz actividades prácticas a tu ritmo, con el feedback personalizado de un tutor. Al finalizar el curso, enriquece tu portafolio con un proyecto real y el certificado oficial de EBAC.</ins>
 
 

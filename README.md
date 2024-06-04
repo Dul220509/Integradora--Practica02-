@@ -29,7 +29,10 @@ El mas bajo de nivel
 
 
 ### 2. Separadores (SEPARATORS) -PRACTICA 03
-Si se desea marcar una separacion más visual de contenidos de podremos utilizarlos indicando tres caracteres de "-" continuos, en el maquetado
+
+##### Si se desea marcar una separacion más visual de contenidos de podremos utilizarlos indicando tres caracteres de "-" continuos, en el maquetado.
+
+
 EJEMPLO
 ---
 Esto es similar a un tag de <HR> en HTML

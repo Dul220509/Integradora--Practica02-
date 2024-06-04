@@ -55,24 +55,37 @@ Tambien podemos aplicar  estilos basicos de alineación :
 
 Github es una plataforma de control de versiones gratuita que sirve para gestionar proyectos y permite colaborar con una gran comunidad de desarrolladores, aportando mejoras y comentarios. Puede ser útil no solo para manejar proyectos de desarrollo de software, sino también para organizar trabajo en equipo en diferentes industrias.
 
-Si quieres aprender a sacar el máximo partido a Github y tener una carrera exitosa en el sector IT, inscríbete al curso online de Analista de Datos. Aprenderás los principios de programación para generar estadísticas, analizar y manejar datos, visualizar resultados y mucho más. Estudia y haz actividades prácticas a tu ritmo, con el feedback personalizado de un tutor. Al finalizar el curso, enriquece tu portafolio con un proyecto real y el certificado oficial de EBAC.
+Si quieres aprender a sacar el máximo partido a Github y tener una carrera exitosa en el sector IT, inscríbete al curso online de Analista de Datos. Aprenderás los principios de programación para generar estadísticas, analizar y manejar datos, visualizar resultados y mucho más. Estudia y haz actividades prácticas a tu ritmo, con el feedback personalizado de un tutor. Al finalizar el curso, enriquece tu portafolio con un proyecto real y el certificado oficial de EBAC PARRAFO ALINEADO A LA IZQUIERDA POR DEFECTO.
 
-<p aling="right">
-Github es una plataforma de control de versiones gratuita que sirve para gestionar proyectos y permite colaborar con una gran comunidad de desarrolladores, aportando mejoras y comentarios. Puede ser útil no solo para manejar proyectos de desarrollo de software, sino también para organizar trabajo en equipo en diferentes industrias.
+<p align="right"> PARRAFO CON ALINEACION A LA DERECHA
+Crea un repositorio de GitHub
+El repositorio es una ubicación donde se almacena toda la información de un proyecto. Puede contener uno o varios archivos de código, imágenes, texto, etc. Para crear uno, haz clic en el menú desplegable con el símbolo + en la parte superior derecha de la página y escoge New repository. Ahora tienes que rellenar los datos necesarios:
 
-Si quieres aprender a sacar el máximo partido a Github y tener una carrera exitosa en el sector IT, inscríbete al curso online de Analista de Datos. Aprenderás los principios de programación para generar estadísticas, analizar y manejar datos, visualizar resultados y mucho más. Estudia y haz actividades prácticas a tu ritmo, con el feedback personalizado de un tutor. Al finalizar el curso, enriquece tu portafolio con un proyecto real y el certificado oficial de EBAC. </p>
+Asigna el nombre corto y claro a tu repositorio.
+Escribe una breve descripción.
+Selecciona el acceso público (para código abierto) o privado.
+Agrega un archivo README con comentarios sobre tu proyecto.
+Haz clic en Create repository para confirmar la creación de tu repositorio.
+</p>
 
-<p aling="center"> Github es una plataforma de control de versiones gratuita que sirve para gestionar proyectos y permite colaborar con una gran comunidad de desarrolladores, aportando mejoras y comentarios. Puede ser útil no solo para manejar proyectos de desarrollo de software, sino también para organizar trabajo en equipo en diferentes industrias.
+<p align="center"> PARRAFO CON CENTRADOCrea una nueva rama (branch)
+La ramificación te permite generar diferentes versiones de un proyecto sin afectar el código inicial. El repositorio tiene una rama principal llamada Main a partir de la cual puedes crear tus propias ramas adicionales creando una copia del proyecto para agregar nuevas características, hacer pruebas sin miedo a equivocarte y arruinar el trabajo realizado. Los cambios introducidos en las ramas se reflejarán en la rama principal solo después de confirmar y fusionarlos. Para generar una nueva rama:
 
-Si quieres aprender a sacar el máximo partido a Github y tener una carrera exitosa en el sector IT, inscríbete al curso online de Analista de Datos. Aprenderás los principios de programación para generar estadísticas, analizar y manejar datos, visualizar resultados y mucho más. Estudia y haz actividades prácticas a tu ritmo, con el feedback personalizado de un tutor. Al finalizar el curso, enriquece tu portafolio con un proyecto real y el certificado oficial de EBAC.
-este parrafo esta centrado utilizando la alinación.
+Entra en tu repositorio y haz clic en la pestaña Code.
+Pulsa el botón Main con una lista desplegable de archivos.
+Introduce el nombre de tu nueva rama de características.
+Haz clic en Create branch. Ahora puedes hacer cambios en la nueva rama.  PARRAFO CON CENTRADO.
 </p>
 
 
-<p aling="justify"> Github es una plataforma de control de versiones gratuita que sirve para gestionar proyectos y permite colaborar con una gran comunidad de desarrolladores, aportando mejoras y comentarios. Puede ser útil no solo para manejar proyectos de desarrollo de software, sino también para organizar trabajo en equipo en diferentes industrias.
+<p align="justify"> PRACTICA CON JUSTIFICADO Haz un commit para guardar cambios
+En GitHub, las modificaciones se llevan a cabo mediante confirmaciones o commits. Para mantener los cambios hechos en una rama y guardarlos en tu repositorio, realiza los siguientes pasos:
 
-Si quieres aprender a sacar el máximo partido a Github y tener una carrera exitosa en el sector IT, inscríbete al curso online de Analista de Datos. Aprenderás los principios de programación para generar estadísticas, analizar y manejar datos, visualizar resultados y mucho más. Estudia y haz actividades prácticas a tu ritmo, con el feedback personalizado de un tutor. Al finalizar el curso, enriquece tu portafolio con un proyecto real y el certificado oficial de EBAC.
-Este parrafo esta justificado utilizando la propiedad de alineacion
+Selecciona tu rama recién creada en el menú desplegable Main.
+Escoge el archivo que quieres cambiar.
+Haz clic en el icono del lápiz para editar.
+Agrega una breve descripción de los cambios realizados.
+Presiona el botón Commit changes para subir la nueva versión al repositorio. PRACTICA CON JUSTIFICADO
 </p>
 
 

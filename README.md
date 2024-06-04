@@ -22,3 +22,16 @@ El mas bajo de nivel
 
 ####### encabezado nivel 7 
 (solo se toma en cuenta los primeros niveles)
+
+
+###### Encabezado de nivel 6 -similar a H6 en HTML
+####### encabezado de nivel 7 - solo son los niveles permitidos a partir de este el maquetado será ignorado.
+
+
+### 2. Separadores (SEPARATORS) -PRACTICA 03
+Si se desea marcar una separacion más visual de contenidos de podremos utilizarlos indicando tres caracteres de "-" continuos, en el maquetado
+EJEMPLO
+---
+Esto es similar a un tag de <HR> en HTML
+
+

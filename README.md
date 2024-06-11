@@ -131,3 +131,39 @@ se utiliza un triple asterizco
 <ins>Si quieres aprender a sacar el máximo partido a Github y tener una carrera exitosa en el sector IT, inscríbete al curso online de Analista de Datos. Aprenderás los principios de programación para generar estadísticas, analizar y manejar datos, visualizar resultados y mucho más. Estudia y haz actividades prácticas a tu ritmo, con el feedback personalizado de un tutor. Al finalizar el curso, enriquece tu portafolio con un proyecto real y el certificado oficial de EBAC.</ins>
 
 
+# Integradora practica 03
+
+Continuamos con los comandos básicos de Git y GitHub para el maquetado de la documentación 
+
+### 5. Cuadros de código o reseñas (BLOCKQUOTES)
+
+Estos elementos son utilizados para resaltar instrucciones especificas para la instalación, configuración y/o inicializar mostrar secciones de código fuente. Se maqueta iniciando el texto con un símbolo de mayor que (>). 
+
+**EJEMPLO**
+
+Para listar las carpetas y archivos es desde una terminal de sistema operativo Windows debemos ingresar el comando:
+
+C:/dir
+
+Después oprimimos la tecla "enter"
+
+También podemos ingresas textos multilínea 
+
+**EJEMPLO**
+
+>Aquí se ingresa un conjunto de instrucciones 
+>para explicar al usuario, como instalar el
+>que hemos diseñado.
+
+Y si deseamos incluir viñetas para enlistar los pasos  podemos utilizar el carácter dentro del texto a documentar
+
+ **EJEMPLO**
+
+**PASOS PARA INSTALAR LA BASE DE DATOS**
+
+>- Decargar MySQL Server del Sitio Oficial 
+>- instalar el Sistema Gestor de Base de Datos definiendo el puesto y la contraseña para el usuario ***root***
+>-Descargamos el archivo de respaldo de la base de datos (.sql)
+>-restauramos la Base de Datos usando el comando *mysql*
+C:/ProgramFiles/MySQL/MYSQLServer8.0/bin/mysql-u root -p
+password < respaldo.sql

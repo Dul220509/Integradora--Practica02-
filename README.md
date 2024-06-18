@@ -227,7 +227,7 @@ En caso de necesitar la fusión de celdas en columnas usaremos oa propiedad *col
 
 
 ## Imagenes 
-![]()
+![](https://github.com/Dul220509/Integradora--Practica02-/blob/main/github.png)
 
 ![]()
 

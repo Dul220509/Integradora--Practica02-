@@ -207,7 +207,7 @@ Pero si deseamos poner solo las ligas directas o un correo electrónico podemos 
 
 **Ejemplo**
 
-Documentación creada por ***Dulce Yadira Salvador Antonio ***
+Documentación creada por ***Dulce Yadira Salvador Antonio***
 <230493@utxicotepec.edu.mx>
 
 ##### 8.Tablas (Tables)
@@ -233,7 +233,8 @@ En caso de necesitar la fusión de celdas en columnas usaremos oa propiedad *col
 
 **EJEMPLO:**
 
-|Encabezado 1 |Encabezado 2 |Encabezado 3 |Encabezado 4|
+|Encabezado 1 |Encabezado 2 |Encabezado 3 |E
+ncabezado 4|
 |-------------|-------------|-------------|------------|
 |Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
 |Fila 2 Celda 1|              |Fila 2 Celda 2|              |
@@ -241,3 +242,35 @@ En caso de necesitar la fusión de celdas en columnas usaremos oa propiedad *col
 |              |Fila 4 Celda 2|Fila 4 Celda 3|Fila 4 Celda 4|
 |              |Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
 |Fila 5 Celda 1|Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
+
+
+**Ejemplo**
+
+|Encabezado 1 |Encabezado 2 |Encabezado 3 |E
+ncabezado 4|
+|-------------|-------------|-------------|------------|
+<tr>
+<td> fila 2 celda 1<td/>
+<td td colspan=3 aling="center"> fila 2 celda 2</td>
+</tr>
+
+<tr>
+<td td rowspan=3 aling="center"> fila 3 celda 1</td>
+<td>Fila 3 celda 2</>
+<td>Fila 3 celda 3</>
+<td>Fila 3 celda 4</>
+</tr>
+
+<tr>
+<td td rowspan=3 aling="center"> fila 3 celda 1</td>
+<td>Fila 3 celda 2</>
+<td>Fila 3 celda 3</>
+<td>Fila 3 celda 4</>
+</tr>
+
+<tr>
+<td td rowspan=3 aling="center"> fila 3 celda 1</td>
+<td>Fila 3 celda 2</>
+<td>Fila 3 celda 3</>
+<td>Fila 3 celda 4</>
+</tr>

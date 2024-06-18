@@ -166,4 +166,36 @@ Y si deseamos incluir viñetas para enlistar los pasos  podemos utilizar el car�
 >-Descargamos el archivo de respaldo de la base de datos (.sql)
 >-restauramos la Base de Datos usando el comando *mysql*
 C:/ProgramFiles/MySQL/MYSQLServer8.0/bin/mysql-u root -p
-password < respaldo.sql
+password < respaldo.sql.
+
+*6. Listas ordenadas y Desordenadas*
+
+asi es en nuestra documentación necesitamos incluir información de texto en modo de lista, un elemento tras otro podemos hacerlo utilizando los números con un punto decimal si las deseamos ordenadas o un guion en medio - si solo queremos una viñeta 
+
+
+*EJEMPLO*
+
+Para poder crear tu primero repositorio en GitHub deveras;
+  
+1.Contar con una cuenta GitHub
+   
+2.Dar clic en el botón *Nuevo Repositorio
+
+3.Asignarle un nombre a tu repositorio, por ejemplo: 'ptactica03-3b'
+
+4.Asignarle un nivel de privacidad entre 
+
+-*PUBLICO* Si quieres que este disponible para todos los usuarios.
+
+-*PRIVADO* Si deseas que solo a quien decidas puedan colaborar con tu proyecto.
+
+10.Definir si incluye un archivo de descripción llamado: README.md
+
+11.Definir si habrá exclusiones de archivo a través del archivo a través del archivo : gitignore
+7. Guardar los cambios 
+
+
+#### 7. Ligas (Hipervínculos)
+
+las ligas utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizando lo corchetes \[ \], inmediatamente después pondremos la liga de referencia entre paréntesis /()
+

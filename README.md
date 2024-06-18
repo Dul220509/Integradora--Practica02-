@@ -199,3 +199,45 @@ Para poder crear tu primero repositorio en GitHub deveras;
 
 las ligas utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizando lo corchetes \[ \], inmediatamente después pondremos la liga de referencia entre paréntesis /()
 
+
+**Ejemplo**
+mi buscador favorito es: [Google](https://google.com).
+
+Pero si deseamos poner solo las ligas directas o un correo electrónico podemos utilizar los simbolos \ < \>
+
+**Ejemplo**
+
+Documentación creada por ***Dulce Yadira Salvador Antonio ***
+<230493@utxicotepec.edu.mx>
+
+##### 8.Tablas (Tables)
+
+Si la documentación lo requiere podemos presentar información en formato de tablas con filas y columnas , para maquetarlas podemos utilizar el carácter \| para delifitar las columnas y \- oara delimitar las filas .
+
+**ejemplo**
+|Encabezado 1|Encabezado2|Encabezado 3|Encabezado 4|
+|-----------|-----------|-----------|-----------|
+|Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
+|Fila 2 Celda 1|Fila 2 Celda 2|Fila 2 Celda 3|Fila 2 Celda 4|
+|Fila 3 Celda 1|Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
+
+En caso de necesitar la fusión de celdas en columnas usaremos oa propiedad *colspan* del tag \<td> y en el caso de necesitar la fusión de filas utilizaremos la propiedad *Rowspan*.
+
+**Ejemplo**
+
+
+## Imagenes 
+![]()
+
+![]()
+
+**EJEMPLO:**
+
+|Encabezado 1 |Encabezado 2 |Encabezado 3 |Encabezado 4|
+|-------------|-------------|-------------|------------|
+|Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
+|Fila 2 Celda 1|              |Fila 2 Celda 2|              |
+|Fila 3 Celda 1|Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
+|              |Fila 4 Celda 2|Fila 4 Celda 3|Fila 4 Celda 4|
+|              |Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
+|Fila 5 Celda 1|Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|

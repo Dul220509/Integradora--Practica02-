@@ -212,7 +212,7 @@ Documentación creada por ***Dulce Yadira Salvador Antonio***
 
 ##### 8.Tablas (Tables)
 
-Si la documentación lo requiere podemos presentar información en formato de tablas con filas y columnas , para maquetarlas podemos utilizar el carácter \| para delifitar las columnas y \- oara delimitar las filas .
+Si la documentación lo requiere podemos presentar información en formato de tablas con filas y columnas , para maquetarlas podemos utilizar el carácter \| para delimitar las columnas y \- para delimitar las filas .
 
 **ejemplo**
 |Encabezado 1|Encabezado2|Encabezado 3|Encabezado 4|
@@ -221,20 +221,11 @@ Si la documentación lo requiere podemos presentar información en formato de ta
 |Fila 2 Celda 1|Fila 2 Celda 2|Fila 2 Celda 3|Fila 2 Celda 4|
 |Fila 3 Celda 1|Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
 
-En caso de necesitar la fusión de celdas en columnas usaremos oa propiedad *colspan* del tag \<td> y en el caso de necesitar la fusión de filas utilizaremos la propiedad *Rowspan*.
-
-**Ejemplo**
-
-
-## Imagenes 
-![](https://github.com/Dul220509/Integradora--Practica02-/blob/main/github.png)
-
-![]()
+En caso de necesitar la fusión de celdas en columnas usaremos la propiedad *colspan* del tag <\td> y en el caso de necesitar la fusión de filas utilizaremos la propiedad *Rowspan*.
 
 **EJEMPLO:**
 
-|Encabezado 1 |Encabezado 2 |Encabezado 3 |E
-ncabezado 4|
+|Encabezado 1 |Encabezado 2 |Encabezado 3 |Encabezado 4|
 |-------------|-------------|-------------|------------|
 |Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
 |Fila 2 Celda 1|              |Fila 2 Celda 2|              |
@@ -246,31 +237,21 @@ ncabezado 4|
 
 **Ejemplo**
 
-|Encabezado 1 |Encabezado 2 |Encabezado 3 |E
-ncabezado 4|
+|Encabezado 1 |Encabezado 2 |Encabezado 3 |Encabezado 4|
 |-------------|-------------|-------------|------------|
-<tr>
-<td> fila 2 celda 1<td/>
-<td td colspan=3 aling="center"> fila 2 celda 2</td>
-</tr>
+<tr><td>|fila 2 celda 1<td/>|<td td colspan=3 aling="center"> fila 2 celda 2</td>|</tr>
+<tr><td td rowspan=3 aling="center">|fila 3 celda 1</td>|<td>Fila 3 celda 2</>|<td>Fila 3 celda 3</>|<td>Fila 3 celda 4</>|</tr>
+<tr><td td rowspan=3 aling="center">|fila 3 celda 1</td>|<td>Fila 3 celda 2</>|<td>Fila 3 celda 3</>|<td>Fila 3 celda 4</>|</tr>
+<tr><td td rowspan=3 aling="center">|fila 3 celda 1</td>|<td>Fila 3 celda 2</>|<td>Fila 3 celda 3</>|<td>Fila 3 celda 4</>|</tr>
+<tr><td td rowspan=3 aling="center">|fila 3 celda 1</td>|<td>Fila 3 celda 2</>|<td>Fila 3 celda 3</>|<td>Fila 3 celda 4</>|</tr>
+<tr><td td rowspan=3 aling="center">|fila 3 celda 1</td>|<td>Fila 3 celda 2</>|<td>Fila 3 celda 3</>|<td>Fila 3 celda 4</>|</tr>
+<tr><td td rowspan=3 aling="center">|fila 3 celda 1</td>|<td>Fila 3 celda 2</>|<td>Fila 3 celda 3</>|<td>Fila 3 celda 4</>|</tr>
+<tr><td td rowspan=3 aling="center">|fila 3 celda 1</td>|<td>Fila 3 celda 2</>|<td>Fila 3 celda 3</>|<td>Fila 3 celda 4</>|</tr>
+<tr><td td rowspan=3 aling="center">|fila 3 celda 1</td>|<td>Fila 3 celda 2</>|<td>Fila 3 celda 3</>|<td>Fila 3 celda 4</>|</tr>
 
-<tr>
-<td td rowspan=3 aling="center"> fila 3 celda 1</td>
-<td>Fila 3 celda 2</>
-<td>Fila 3 celda 3</>
-<td>Fila 3 celda 4</>
-</tr>
 
-<tr>
-<td td rowspan=3 aling="center"> fila 3 celda 1</td>
-<td>Fila 3 celda 2</>
-<td>Fila 3 celda 3</>
-<td>Fila 3 celda 4</>
-</tr>
+## Imagenes 
+![](https://github.com/Dul220509/Integradora--Practica02-/blob/main/github.png)
 
-<tr>
-<td td rowspan=3 aling="center"> fila 3 celda 1</td>
-<td>Fila 3 celda 2</>
-<td>Fila 3 celda 3</>
-<td>Fila 3 celda 4</>
-</tr>
+![]()
+

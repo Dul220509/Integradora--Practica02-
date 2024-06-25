@@ -234,21 +234,53 @@ En caso de necesitar la fusión de celdas en columnas usaremos la propiedad *col
 |              |Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
 |Fila 5 Celda 1|Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
 
+*Ejemplo:*
+<table>
+<tr>
+<th>Encabezado 1</th>
+<th>Encabezado 2</th>
+ <th>Encabezado 3</th>
+ <th>Encabezado 4</th>
+</tr>
+<tr>
+ <td>Fila 1 Celda 1</td>
+ <td>Fila 1 Celda 2</td>
+ <td>Fila 1 Celda 3</td>
+ <td>Fila 1 Celda 4</td>
+</tr>
 
-**Ejemplo**
+<tr>
+<td>Fila 2 Celda 1</td>
+<td colspan=3 align="center">Fila 2 Celda 2</td>
 
-|Encabezado 1 |Encabezado 2 |Encabezado 3 |Encabezado 4|
-|-------------|-------------|-------------|------------|
-<tr><td>|fila 2 celda 1<td/>|<td td colspan=3 aling="center"> fila 2 celda 2</td>|</tr>
-<tr><td td rowspan=3 aling="center">|fila 3 celda 1</td>|<td>Fila 3 celda 2</>|<td>Fila 3 celda 3</>|<td>Fila 3 celda 4</>|</tr>
-<tr><td td rowspan=3 aling="center">|fila 3 celda 1</td>|<td>Fila 3 celda 2</>|<td>Fila 3 celda 3</>|<td>Fila 3 celda 4</>|</tr>
-<tr><td td rowspan=3 aling="center">|fila 3 celda 1</td>|<td>Fila 3 celda 2</>|<td>Fila 3 celda 3</>|<td>Fila 3 celda 4</>|</tr>
-<tr><td td rowspan=3 aling="center">|fila 3 celda 1</td>|<td>Fila 3 celda 2</>|<td>Fila 3 celda 3</>|<td>Fila 3 celda 4</>|</tr>
-<tr><td td rowspan=3 aling="center">|fila 3 celda 1</td>|<td>Fila 3 celda 2</>|<td>Fila 3 celda 3</>|<td>Fila 3 celda 4</>|</tr>
-<tr><td td rowspan=3 aling="center">|fila 3 celda 1</td>|<td>Fila 3 celda 2</>|<td>Fila 3 celda 3</>|<td>Fila 3 celda 4</>|</tr>
-<tr><td td rowspan=3 aling="center">|fila 3 celda 1</td>|<td>Fila 3 celda 2</>|<td>Fila 3 celda 3</>|<td>Fila 3 celda 4</>|</tr>
-<tr><td td rowspan=3 aling="center">|fila 3 celda 1</td>|<td>Fila 3 celda 2</>|<td>Fila 3 celda 3</>|<td>Fila 3 celda 4</>|</tr>
+</tr>
+<tr>
+<td rowspan=3> Fila 3 Celda 1</td>
+<td> Fila 3 Celda 2</td>
+<td> Fila 3 Celda 3</td>
+<td> Fila 3 Celda 4</td>
+</tr>
 
+<tr>
+<td>Fila 4 Celda 2</td>
+<td>Fila 4 Celda 3</td>
+<td>Fila 4 Celda 4</td>
+</tr>
+<tr>
+<td>Fila 5  Celda 2</td>
+<td>Fila 5  Celda 3</td>
+<td>Fila 5  Celda 4</td>
+
+</tr>
+<tr>
+<td>Fila 5  Celda 1</td>
+<td>Fila 5  Celda 2</td>
+<td>Fila 5  Celda 3</td>
+<td>Fila 5  Celda 4</td>
+
+</tr>
+
+</table>
 
 ## Imagenes 
 ![](https://github.com/Dul220509/Integradora--Practica02-/blob/main/github.png)

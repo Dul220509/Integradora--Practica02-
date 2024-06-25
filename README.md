@@ -283,6 +283,9 @@ En caso de necesitar la fusión de celdas en columnas usaremos la propiedad *col
 </table>
 
 ## Imagenes 
+
+ Para agregar imagenes debemos subiria al repositorio, en la opcion de subir archivos seleccionaremos las imagenes a subir, debemos darle en la opcion de commit changes para guardandas, una vez guardades, entraremos accediendo a las imagenes cargadas en nuestro repositorio para poder copier su URL de cada una, para insertarlas y que se muestren utilizaremos la sintaxis de Markdown para Imágenes, ![Texto alternative de la imagen] (Url de la imagen cargada).
+ 
 ![](https://github.com/Dul220509/Integradora--Practica02-/blob/main/github.png)
 
 ![](https://github.com/Dul220509/Integradora--Practica02-/blob/main/gati.png)
